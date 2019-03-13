@@ -1,0 +1,13 @@
+<?php
+	$RES='down';
+	if($WRONGURL)
+		$RES='error';
+	elseif($ISUP)
+		$RES='up';
+?>
+<result>
+	<url><?=$URL?></url>
+	<timeout><?=$timeout?></timeout>
+	<status><?=$RES?></status>
+	<responsetime><?=$RESPONSETIME?></responsetime>
+</result>
