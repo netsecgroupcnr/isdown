@@ -75,7 +75,7 @@ The program is licensed under the [Creative Commons Attribution-NonCommercial-Sh
   * Enrico Cambiaso
 * Support:
   * Maurizio Aiello
-  * Ivan Vaccari
+  * Gianluca Papaleo
 
 ### Contacts ###
 
